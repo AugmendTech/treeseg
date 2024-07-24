@@ -1,0 +1,31 @@
+
+
+{
+	"XBZ-xMIQAA":{
+		"env": "dev",
+		"annotator": "tim",
+		"coarse": [
+			[0,20,"Introductions"],
+			[21,309,"What's an \"EE\"? Where does it come from? Evolution/specialization of support"],
+			[310,398,"How to get into this job, qualifications"],
+			[399,490,"What tools are used for support"],
+			[491,542,"What do you enjoy about the job?"],
+			[543,669,"How to find this role at Microsoft? Wrapping up"]
+		],
+		"fine": [
+		        [0,20,"Introductions"],
+			[21,78,"What's an EE?"],
+			[79,107,"How is EE different from support?"],
+			[108,138,"Specialization"],
+			[139,203,"The broad view of a support engineer"],
+			[204,258,"Dealing with legacy, legacy of config, legacy of software, legacy code."],
+			[290,309,"Comparison to detective, thrill of putting together clues for something obscure"],
+			[310,398,"How to get into this job, qualifications"],
+			[399,490,"What tools are used for support"],
+			[491,517,"Best parts of the job: Learning"],
+			[518,542,"Best parts of the job: Teaching"],
+			[543,669,"How to find this role at Microsoft? Wrapping up"]
+		]
+	
+	}
+}

@@ -1,0 +1,35 @@
+
+
+{
+	"9f7dc219-0438-4bb3-bc9c-12c6512393f4":{
+		"env": "dev",
+		"annotator": "diamond",
+		"coarse": [
+			[0,13,"Intro"],
+			[14,116,"New navigation "],
+			[117,133,"Activities"],
+			[134,184,"Meeting and chapters processing"],
+			[185,204,"Conclusion"]
+		],
+		"fine": [
+			[0,13,"Intro"],
+			[14,22,"Update on new navbar"],
+			[23,40,"Favorites and recent view"],
+			[41,47,"Feedback on nav updates"],
+			[48,72,"How do favorites and recents work"],
+			[73,95,"Starring workspaces that aren't yours"],
+			[96,108,"Impact on cross-workspace search"],
+			[109,116,"Other Loom missing features"],
+			[117,124,"Update on activity testing"],
+			[125,133,"Activity formatting"],
+			[134,153,"End of meeting workspace processing"],
+			[154,171,"Chapters service and functionality"],
+			[172,184,"Server side processing split up"],
+			[185,204,"Conclusion  "]
+		]
+	}
+}
+
+
+
+

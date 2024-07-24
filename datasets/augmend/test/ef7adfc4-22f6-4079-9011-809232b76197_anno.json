@@ -1,0 +1,30 @@
+
+
+{
+	"ef7adfc4-22f6-4079-9011-809232b76197":{
+		"env": "dev",
+		"annotator": "diamond",
+		"coarse": [
+			[0,91,"Stripe Pricing Flows"],
+			[92,119,"User Tier Callbacks"],
+			[120,139,"User feedback and issues"]
+		],
+		"fine": [
+			[0,10,"Intro"],
+			[11,19,"New pricing page"],
+			[20,30,"Strip pricing table code"],
+			[31,55,"Changes for login flow"],
+			[56,69,"Stripe checkout"],
+			[70,77,"Strip dashboard"],
+			[78,91,"Pricing table products"],
+			[92,107,"Pricing flow callback"],
+			[108,119,"User tier update"],
+			[120,139,"User feedback and issues"]
+		]
+	}
+}
+
+
+
+
+

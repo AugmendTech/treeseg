@@ -1,0 +1,28 @@
+
+{
+	"d504cb99-3490-4600-aa7c-0aedfc4251e3": {
+		"env": "preprod",
+		"annotator": "john",
+		"coarse": [
+			[0, 8,"Introduction"],
+			[9, 27,"Example use case of an AG component with the AGIcon"],
+			[28, 78,"Deep dive into the anatomy of an AG component file"],
+			[79, 92,"Example of type checking system catching an error"],
+			[93, 100,"Wrapping up the end of the file and ending the recordin"]
+		],
+		"fine": [
+			[0, 8,"Introduction"],
+			[9, 18,"Demo of workspace filtering by title"],
+			[19, 27,"Introduction to example AG Icon component"],
+			[28, 34,"Anatomy of an AG component file"],
+			[35, 42,"Breakdown of HTML and CSS inclusion in an AG component"],
+			[43, 51,"Example of how properties are added to an AG component"],
+			[52, 58,"Example of a number type property (size) for the AGIcon component"],
+			[59, 66,"How to use the AG factory helper"],
+			[67, 72,"How to extend existing HTML elements"],
+			[73, 78,"Importance of the render function"],
+			[79, 92,"Example of type checking system catching an error"],
+			[93, 100,"Wrapping up the end of the file and ending the recording"]
+		]
+	}
+}

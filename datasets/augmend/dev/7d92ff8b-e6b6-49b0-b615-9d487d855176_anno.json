@@ -1,0 +1,43 @@
+
+
+{
+	"7d92ff8b-e6b6-49b0-b615-9d487d855176":{
+		"env": "dev",
+		"annotator": "liam",
+		"coarse": [
+			[0, 57,"Greetings, Getting setup"],
+			[58, 183,"John Shares his work on Chapters and Replay"],
+			[184, 292,"Liam Shares his work on the accessibility interface"],
+			[239, 356,"Dimitrios shares his work on segmentation and embeddings."],
+			[356, 558,"Diamond discusses next steps and feedback"]
+		],
+		"fine": [
+				[ 0, 13,"Discussing audio issues"],
+				[ 14, 22,"Greetings"],
+				[ 23, 57,"Screen sharing issues"],
+				[ 58, 66,"Additions to replay view"],
+				[ 67, 84,"Timeline zoom"],
+				[ 85, 105,"Feedback on chapter view"],
+				[106, 148,"Demoing JS components"],
+				[149, 176,"Discussing high CPU usage "],
+				[177, 183,"Feedback on John's demos"],
+				[184, 195,"Accessibility event demo"],
+				[196, 208,"Specific app handlers"],
+				[209, 221,"Issues and planning accessibility interface"],
+				[222, 227,"Diamond asks about handling app specific actions"],
+				[228, 240,"Detecting specific applications"],
+				[241, 288,"Different types of accessibility events"],
+				[289, 317,"Improvements to functionality of segmentation and spaces"],
+				[318, 356,"Research into models and ways to tune embeddings"],
+				[356, 364,"Feedback and pain points"],
+				[365, 369,"Discussing how to find our customers better"],
+				[370, 378,"Bug fixes"],
+				[379, 383,"Looking out for issues and fixes"],
+				[384, 431,"Backlog and work that's been completed"],
+				[432, 482,"John asks Dimitrios about processing Embeddings"],
+				[483, 535,"Planning for and discussing storing processed workspaces"],
+				[536, 548,"Dimitios and Diamond talk about making processing faster"],
+				[549, 558,"Closing and planning to talk to Tim"]
+		]
+	}
+}

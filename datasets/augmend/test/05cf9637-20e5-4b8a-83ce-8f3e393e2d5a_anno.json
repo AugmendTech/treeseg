@@ -1,0 +1,21 @@
+
+
+{
+	"05cf9637-20e5-4b8a-83ce-8f3e393e2d5a":{
+		"env": "dev",
+		"annotator": "diamond",
+		"coarse": [
+			[0,173,"Moosend email campaigns"],
+			[174,226,"Augmend homepage updates"]
+		],
+		"fine": [
+			[0,59,"Intro to moosend"],
+			[60,79,"Email lists"],
+			[80,92,"Reviewing campaign metrics"],
+			[93,140,"Creating a campaign"],
+			[141,173,"Campaign email design"],
+			[174,186,"Intro video addition"],
+			[187,226,"Library updates"]
+		]
+	}
+}

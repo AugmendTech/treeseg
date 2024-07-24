@@ -1,0 +1,46 @@
+
+
+{
+	"XCH_6nCQAA":{
+		"env": "dev",
+		"annotator": "diamond",
+		"coarse": [
+			[0,52,"Paper Intro"],
+			[53,62,"HuggingFace"],
+			[63,280,"Model architecture"],
+			[281,475,"Model evaluation and training"],
+			[476,485,"Related work"],
+			[486,496,"Podcast aside"],
+			[497,556,"Related work continued "],
+			[557,579,"Appendices"],
+			[580,606,"Conclusion"]
+		],
+		"fine": [
+			[0,8,"Intro"],
+			[9,17,"Transformer paper summary"],
+			[18,27,"Overview of the techniques used"],
+			[28,52,"Cross-modality model training"],
+			[53,62,"HuggingFace raises money"],
+			[63,114,"Paper model architecture"],
+			[115,120,"Kevin Liu - paper author"],
+			[121,130,"Paper code and dataset"],
+			[131,152,"Survey of NLP"],
+			[153,164,"Frozen pre-trained network"],
+			[165,214,"Cross-modality training claims"],
+			[215,229,"Use of image learning"],
+			[230,244,"Proteins"],
+			[245,280,"Model layers"],
+			[281,322,"Dataset evaluation"],
+			[323,475,"Model training"],
+			[476,485,"Related work"],
+			[486,496,"Podcast"],
+			[497,504,"Related work continued "],
+			[505,547,"Interesting technical notes and tricks"],
+			[548,556,"Pre-trained transformer training"],
+			[557,574,"Appendix references review"],
+			[575,579,"Experiment setup"],
+			[580,595,"Paper summarization"],
+			[596,606,"Outro"]
+		]
+	}
+}

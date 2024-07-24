@@ -1,0 +1,42 @@
+
+
+{
+	"XCCB24IQAA":{
+		"env": "dev",
+		"annotator": "diamond",
+		"coarse": [
+			[0,27,"Intro to running local LLMs"],
+			[28,205,"LM Studio"],
+			[206,279,"Olama 2"],
+			[280,315,"Docker"],
+			[316,342,"Conclusion"]
+		],
+		"fine": [
+			[0,10,"Intro to local LLMs"],
+			[11,16,"Local machine specs"],
+			[17,27,"How to check your own machine specs"],
+			[28,33,"Installing LM Studio"],
+			[34,51,"Model store overview"],
+			[52,71,"Downloading a local model"],
+			[72,87,"Adjusting layers in memory"],
+			[88,102,"Trying Code Llama"],
+			[103,115,"Trying phi"],
+			[116,123,"Setup local HTTP server"],
+			[124,138,"Testing local server"],
+			[139,144,"Changing the system prompt"],
+			[145,167,"Fixing issue with multi-line"],
+			[168,188,"Adjusting layers in GPU"],
+			[189,194,"Non-deterministic models"],
+			[195,205,"Summary of LM Studio"],
+			[206,216,"Olama installation"],
+			[217,251,"Downloading olama 2 models"],
+			[252,279,"Running the model"],
+			[280,285,"Docker option alternative"],
+			[286,295,"Running docker"],
+			[296,310,"Run Olama as a docker image"],
+			[311,315,"Quitting Olama"],
+			[316,338,"Local model options summary "],
+			[339,342,"Outro"]
+		]
+	}
+}

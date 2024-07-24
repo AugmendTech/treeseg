@@ -1,0 +1,25 @@
+
+{
+	"7c980186-6905-49c4-9b01-c88975324f24": {
+		"env": "preprod",
+		"annotator": "john",
+		"coarse": [
+			[0, 12,"Introduction and reminders of content covered in previous recording."],
+			[13, 84,"Deep dive into the implementation of the AG framework."],
+			[85, 94,"Advantages and value of the AG framework."],
+			[95, 99,"Saying good-bye to audience."]
+		],
+		"fine": [
+			[0, 12,"Introduction and reminders of content covered in previous recording."],
+			[13, 22,"AG framework invocation paramerters and definition."],
+			[23, 37,"Explination of helper method that enhances AG components with TypeScript type information."],
+			[38, 51,"Example of how a AG paramater property type information is mapped to the AG component."],
+			[52, 74,"Explination of how AG component properties are defined and set."],
+			[75, 84,"Explination of how AG component properties are set and how re-rendering is triggered."],
+			[85, 94,"Advantages and value of the AG framework."],
+			[95, 99,"Saying good-bye to audience."]
+		]
+	}
+}
+
+

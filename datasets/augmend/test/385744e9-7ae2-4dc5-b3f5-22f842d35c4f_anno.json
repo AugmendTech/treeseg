@@ -1,0 +1,39 @@
+
+
+{
+	"385744e9-7ae2-4dc5-b3f5-22f842d35c4f":{
+		"env": "prod",
+		"annotator": "diamond",
+		"coarse": [
+			[0,8,"Infinite craft"],
+			[9,58,"CrabGrab goals"],
+			[59,198,"Example options"],
+			[199,260,"Open Source Contribution"],
+			[261,297,"Marking and publicity"],
+			[298,309,"Conclusion"]
+		],
+		"fine": [
+			[0,8,"Infinite craft"],
+			[9,22,"CrabGrab customer goals"],
+			[23,43,"Review documented goals "],
+			[44,58,"Alternatives available now"],
+			[59,73,"Example application "],
+			[74,88,"Adding audio"],
+			[89,116,"Application capture for the example"],
+			[117,123,"Window vs. display capture"],
+			[124,131,"Doing more with ML platform"],
+			[132,159,"Toy example app"],
+			[160,179,"Use in the client app"],
+			[180,198,"Script as example"],
+			[199,216,"Linux bounty"],
+			[217,240,"License options"],
+			[241,260,"Dual licensing"],
+			[261,275,"Other items to complete"],
+			[276,288,"Marketing and testing as an outside developer"],
+			[289,297,"Video for publicity"],
+			[298,309,"Conclusion"]
+		]
+	}
+}
+
+

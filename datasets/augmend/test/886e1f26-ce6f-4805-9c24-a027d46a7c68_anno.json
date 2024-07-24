@@ -1,0 +1,21 @@
+
+
+{
+	"886e1f26-ce6f-4805-9c24-a027d46a7c68":{
+		"env": "prod",
+		"annotator": "tim",
+		"coarse": [
+			[0,7,"Introduction"],
+			[8,19,"Installing the debugging tools through the SDK"],
+			[20,46,"Installing the new WinDbg, known as WinDbgX"],
+			[47,55,"Conclusion"]
+		],
+		"fine": [
+			[0,7,"Introduction"],
+			[8,19,"Installing the debugging tools through the SDK"],
+			[20,35,"Installing WinDbgX using the App Installer"],
+			[35,46,"Installing WinDbgX using WindUp"],
+			[47,55,"Conclusion"]
+		]
+	}
+}

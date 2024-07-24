@@ -1,0 +1,31 @@
+
+
+{
+	"4ceb728c-830e-4481-b8e9-eb1a9f041b8d":{
+		"env": "prod",
+		"annotator": "tim",
+		"coarse": [
+			[0,5,"Intro"],
+			[6,43,"Conditions on data breakpoints with global values"],
+			[44,73,"Setting conditions on local values"],
+			[74,139,"Setting conditions on other data model expressions"],
+			[130, 223,"Conditional breakpoints using JavaScript"],
+			[224,234,"Conclusion - Conditional breakpoints are powerful!"]
+		],
+		"fine": [
+			[0,5,"Intro"],
+			[6,20,"Setting a simple data write breakpoint"],
+			[21,43,"Setting a condition with /w on the data write breakpoint"],
+			[44,73,"Setting conditions on local values"],
+			[74,92,"Using the data model to get information about the stack"],
+			[93,114,"Creating a conditional expression based on the caller"],
+			[115,129,"Testing out a conditional breakpoint using the data model"],
+			[130,139,"Other examples - Breakpoints from specific calling modules"],
+			[130,151,"Creating a script in JavaScript for conditional breakpoints"],
+			[152,175,"Converting previous condition for caller function name into JavaScript"],
+			[176,223,"Testing the Javascript condition"],
+			[224,234,"Conclusion - Conditional breakpoints are powerful!"]
+
+		]
+	}
+}

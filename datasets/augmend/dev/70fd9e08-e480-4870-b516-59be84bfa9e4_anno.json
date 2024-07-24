@@ -1,0 +1,23 @@
+
+{
+	"70fd9e08-e480-4870-b516-59be84bfa9e4": {
+		"env": "preprod",
+		"annotator": "john",
+		"coarse": [
+			[0, 20,"Introduction with plan of for recording session."],
+			[21, 55,"Administrator tasks like filing a bug and testing emojis."],
+			[56, 88,"Review of existing icons for use in SVGs."],
+			[89, 99,"Window crash of sharing client and saying good bye."]
+		],
+		"fine": [
+			[0, 20,"Introduction with plan to narrate my actions for the recording session."],
+			[21, 27,"Editing transcript with new features."],
+			[28, 35,"Testing Emoji."],
+			[36, 45,"Noting a bug to file."],
+			[45, 55,"Closing unused Microsoft Edge windows in the session like Figma."],
+			[56, 65,"Reviewing existing icons for use in SVGs"],
+			[66, 88,"Review of check SVG symantics."],
+			[89, 99,"Window crash of sharing client and saying good bye."]
+		]
+	}
+}

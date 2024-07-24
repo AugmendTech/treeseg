@@ -1,0 +1,51 @@
+
+
+{
+	"X_hE965gAA":{
+		"env": "dev",
+		"annotator": "diamond",
+		"coarse": [
+			[0,8,"Intro"],
+			[9,41," New GPT releases"],
+			[42,131,"GPT-4.0"],
+			[132,563,"Demos"],
+			[564,585,"Conclusion "]
+		],
+		"fine": [
+			[0,8,"Intro"],
+			[9,15,"New ChatGPT access"],
+			[16,24,"New model"],
+			[25,31,"No signup needed"],
+			[32,41,"New UI and app"],
+			[42,55,"GPT-4.0 intro"],
+			[56,78,"Voice mode"],
+			[79,94,"Expanding the GPT Store "],
+			[95,114,"Improvements to capabilities"],
+			[115,124,"New API for developers"],
+			[125,131,"Safety and misuse"],
+			[132,140,"Live demoos intro"],
+			[141,189,"Nervous demo handling"],
+			[191,199,"Adding interruptions to voice"],
+			[200,215,"Real-time responsiveness with voice"],
+			[216,230,"Create a story demo"],
+			[231,264,"Telling the story"],
+			[265,272,"New vision capabilities"],
+			[273,297,"Demo solving math problems"],
+			[298,309,"Trying to solve"],
+			[310,328,"Feedback from ChatGPT"],
+			[329,335,"Checking work"],
+			[336,351,"Applications of Linear Algebra"],
+			[352,366,"ChatGPT chit chat"],
+			[367,375,"Real time video intro"],
+			[376,389,"Coding demo intro"],
+			[390,414,"Describing the code "],
+			[415,438,"Plot "],
+			[439,453,"Desktop app graph view"],
+			[454,496,"Weather analysis"],
+			[497,528,"Real-time translation"],
+			[529,563,"Visual emotion classification"],
+			[564,576,"Conclusion"],
+			[577,585,"Thanks"]
+		]
+	}
+}

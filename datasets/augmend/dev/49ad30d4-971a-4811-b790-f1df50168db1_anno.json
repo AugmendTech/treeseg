@@ -1,0 +1,24 @@
+
+
+{
+	"49ad30d4-971a-4811-b790-f1df50168db1":{
+		"env": "dev",
+		"annotator": "liam",
+		"coarse": [
+			[ 0, 45,"Window Highlight"],
+			[46, 84,"Cross-platform update with Tauri"],
+			[85, 92,"Conclusion"]
+		],
+		"fine": [
+		    [ 0,  6,"Intro"],
+		    [ 7, 11,"Overview of window highlight"],
+		    [12, 21,"Windows and MacOS implementation"],
+		    [22, 38,"MacOS implementation details"],
+		    [39, 45,"Current issues"],
+		    [46, 50,"Intro"],
+		    [51, 59,"Method of updating for MacOS vs. Windows"],
+		    [60, 84,"Implementation details of MacOS implementation"],
+		    [85, 92,"Conclusion"]
+		]
+	}
+}

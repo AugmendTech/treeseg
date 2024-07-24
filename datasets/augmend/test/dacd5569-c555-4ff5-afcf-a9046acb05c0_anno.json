@@ -1,0 +1,27 @@
+
+
+{
+	"dacd5569-c555-4ff5-afcf-a9046acb05c0":{
+		"env": "prod",
+		"annotator": "tim",
+		"coarse": [
+			[0, 10,"Intro"],
+			[11,67,"Using WinDbg to capture a crash dump"],
+			[68,120,"Using Sysinternals ProcDump to capture a dump file"],
+			[121,164,"Using the LocalDumps registry key"],
+			[165,173,"Conclusion"]
+		],
+		"fine": [
+			[0, 7,"Intro, what's a crash dump?"],
+			[8, 10,"The three ways to capture a dump"],
+			[11,25,"Hitting a crash in an example program under WinDbg"],
+			[26, 44,"Capturing a small crash dump in WinDbg with the default options"],
+			[44, 67,"Capturing a large crash dump in WinDbg with the /ma option"],
+			[68,84,"Installing Sysinternals procdump"],
+			[85,105,"Capturing a large crash dump triggered on an exception with ProcDump"],
+			[106,120,"Other triggers for capturing a crash dump in ProcDump"],
+			[121,164,"Using the LocalDumps registry key"],
+			[165,173,"Conclusion"]
+		]
+	}
+}

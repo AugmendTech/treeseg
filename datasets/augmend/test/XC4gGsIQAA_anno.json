@@ -1,0 +1,32 @@
+
+
+{
+	"XC4gGsIQAA":{
+		"env": "dev",
+		"annotator": "diamond",
+		"coarse": [
+			[0,12,"Problem intro"],
+			[13,65,"Tree data structure"],
+			[66,232,"Adding folders with children"],
+			[233,259,"Conclusion"]
+		],
+		"fine": [
+			[0,7,"Interview problem intro"],
+			[8,12,"Understanding trees"],
+			[13,31,"Data structure"],
+			[32,40,"Object children"],
+			[41,49,"Setting up the tree code"],
+			[50,65,"Rending components"],
+			[66,72,"Children design options"],
+			[73,99,"Coding up the children with recursion"],
+			[100,130,"Rendering children"],
+			[131,134,"Have a cold"],
+			[135,154,"Styling different depths"],
+			[155,163,"Rending and styling folders"],
+			[164,184,"Expand to show children"],
+			[185,232,"Fixing button styling"],
+			[233,254,"Problem summary"],
+			[255,259,"Outro"]
+		]
+	}
+}

@@ -1,0 +1,33 @@
+
+
+{
+	"8e1ecc05-f05b-4f24-9f7e-3c24bd7894da":{
+		"env": "prod",
+		"annotator": "tim",
+		"coarse": [
+			[0,7,"Intro"],
+			[8,27,"Creating a Hello World app in Rust for testing"],
+			[28,77,"Starting a debug session"],
+			[78,147,"Basic breakpoints"],
+			[148,200,"Attaching to a running process"],
+			[201,228,"Getting to our code after attaching"],
+			[229,234,"Conclusion"]
+		],
+		"fine": [
+			[0,7,"Intro"],
+			[8,27,"Creating a Hello World app in Rust for testing"],
+			[28,48,"Launching a target under the debugger"],
+			[49,77,"WinDbg breaks in earlier than other debuggers"],
+			[78,93,"Setting breakpoints by function name"],
+			[94,108,"Finding the function to set a breakpoint on"],
+			[109,129,"Setting the breakpoint with bp"],
+			[130,147,"Setting breakpoints in the source"],
+			[148,171,"Modify our test program so we can attach"],
+			[172,187,"Using the attach to process dialog"],
+			[188,200,"Differences from launching under the debugger, starting on the injected thread"],
+			[201,214,"Finding the thread for our code"],
+			[215,228,"Looking at the stack for our code and setting breakpoints"],
+			[229,234,"Conclusion"]
+		]
+	}
+}

@@ -1,0 +1,27 @@
+
+
+{
+	"VxlZBpCgAA":{
+		"env": "dev",
+		"annotator": "tim",
+		"coarse": [
+			[0,9,"Introduction - More than just conditional breakpoints"],
+			[10,31,"Basic script, hit count on a function"],
+			[32,120,"Collecting stack traces for a breakpoint"],
+			[121,141,"Conclusion and wrapping up"]
+		],
+		"fine": [
+			[0,9,"Introduction - More than just conditional breakpoints"],
+			[10,31,"Basic script, hit count on a function"],
+			[32,42,"Using the datamodel to collect frames of a stack"],
+			[43,52,"Tracking enumerated frames by storing them in a tree"],
+			[53,57,"Hiding implementation details using two underscores"],
+			[58,76,"Getting the function name to use in the tree"],
+			[77,94,"Adding data to the tree with correct counts"],
+			[95,99,"Adding a string conversion"],
+			[100,120,"Testing the script"],
+			[121,134,"Scripts can be useful for exploring code"],
+			[135,141,"Wrapping up"]
+		]
+	}
+}

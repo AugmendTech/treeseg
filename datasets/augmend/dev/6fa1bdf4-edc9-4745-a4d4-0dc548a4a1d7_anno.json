@@ -1,0 +1,33 @@
+
+
+{
+	"6fa1bdf4-edc9-4745-a4d4-0dc548a4a1d7":{
+		"env": "dev",
+		"annotator": "diamond",
+		"coarse": [
+			[0,21,"Intro"],
+			[22,47,"Chapters"],
+			[48,90,"New Navigation"],
+			[91,107,"Other changes to recordings"],
+			[108,154,"Chat panel"],
+			[155,160,"Outro"]
+		],
+		"fine": [
+			[0,6,"Intro - updates"],
+			[7,18,"Preview release 0.2 features"],
+			[19,21,"New workspace information"],
+			[22,26,"Chapters overlay"],
+			[27,47,"Chapters code review"],
+			[48,56,"Favorites added"],
+			[57,66,"Favorites code review"],
+			[67,78,"Showing most recent workspaces"],
+			[79,85,"Added left column navigation"],
+			[86,90,"Collab multiplayer changes"],
+			[91,97,"Small changes for people"],
+			[98,107,"Create recording faster"],
+			[108,147,"Chat and memories"],
+			[148,154,"Transcript in replay"],
+			[155,160,"Outro"]
+		]
+	}
+}

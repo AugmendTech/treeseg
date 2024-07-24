@@ -1,0 +1,37 @@
+
+{
+	"c962a21c-1f4f-402a-ac1b-972946fe2217":{
+		"env": "dev",
+		"annotator": "liam",
+		"coarse": [
+			[  0,  17,"Meeting setup and greetings"],
+			[ 18,  25,"Outreach and feedback"],
+			[ 26, 114,"App handlers"],
+			[115, 249,"Workspace management and summaries"],
+			[250, 292,"UI Design"],
+			[293, 313,"Priorities"],
+			[314, 321,"Closing"]
+		],
+		"fine": [
+			[0, 6,"Getting setup"],
+			[7, 17,"Discussing login/join issues"],
+			[ 18,  25,"Outreach and feedback"],
+			[ 26,  36,"App handlers for terminal applications"],
+			[ 37,  78,"Grabbing shell commands"],
+			[ 79, 103,"Additional information we want to grab"],
+			[104, 114,"Grabbing URLs"],
+			[115, 121,"Problems in the manage workspace functionality"],
+			[122, 130,"Problems in the database and fixes"],
+			[131, 144,"Video server issues and fixes"],
+			[145, 153,"Timing of focus and sematic events"],
+			[154, 165,"Supporting youtubers"],
+			[166, 192,"Optimization and computation graph"],
+			[193, 249,"Chapters and content evaluation"],
+			[250, 265,"Editing synopsies"],
+			[266, 284,"Analogy to debugger"],
+			[285, 292,"Weird situation with replays"],
+			[293, 313,"Priorities"],
+			[314, 321,"Closing"]
+		]
+	}
+}
