@@ -4,7 +4,7 @@
 - Official repo for "TreeSeg: Hierarchical Topic Segmentation of Large Transcripts"
 - Paper: https://arxiv.org/abs/2407.12028
 
-TreeSeg is an algorithm for segmenting large meetings transcripts in a hierarchical manner using embeddings and divisive clustering. It produces a binary tree of segments by recursively splitting segments into sub-segments. The approach is completely unsupervised. While this implementation is using OpenAI embeddings model, any embeddings model can be used as an alternative.
+TreeSeg is an algorithm for segmenting large meetings transcripts in a hierarchical manner using embeddings and divisive clustering. It produces a binary tree of segments by recursively splitting segments into sub-segments. The approach is completely unsupervised. While this implementation is using OpenAI's embeddings model, any embeddings model can be used as an alternative.
 
 
 
@@ -58,16 +58,21 @@ We have adapted the code to use our version of ICSI and AMI as described above.
 
 The original repo did not contain extracted data for ICSI/AMI. We have adapted the code to our version of ICSI and AMI as described above.
 
+## **Random**
+A naive stochastic baseline choosing transition point at random.
+
+## **Equidistant**
+A naive determinstic baseline choosing equidistant transition points.
+
 # Running
 
 - The entry point is `main.py`
-- You can invoke it as follows `python3 main.py --model MODEL_NAME --dataset DATASET_NAME --mid MEETING_ID`
+- You can invoke it as follows `python3 main.py --model MODEL_NAME --dataset DATASET_NAME --mid MEETING_ID --fold {dev,test}`
+- Alternatively instead of providing a meeting id yo ucan set the `--eval` flag which will process all meetings in the fold.
 - model: `treeseg` TreeSeg, `bertseg` (BERT embeddings), `hyperseg` (hyperdimensional vectors), `random` (random segmentation), `equi` (equidistant segments), `view` (will print meeting in-order, segment by segment)
 - dataset: `icsi` or `ami` 
 - mid: 0-indexed meeting id as an integer (e.g. 1 will evaluate on the second meeting in the corpus)
-
-- Only the first 5 meetings from each corpus are loaded to save time testing. To remove this restriction pass `restricted=False` to the dataset class constructor.
-- For `bertseg` you will need to set up an environment variable named `OPENAI_API_KEY` with your OpenAI key, so that the embeddings can be extracted. Calls to the embeddings endpoint are inexpensive. We are using the `text-embedding-3-large` model. For more information on pricing, take a look here: https://openai.com/api/pricing/
+- For `bertseg` you will need to set up an environment variable named `OPENAI_API_KEY` with your OpenAI key, so that the embeddings can be extracted. Calls to the embeddings endpoint are inexpensive. We are using OpenAI's v2 (ADA) model. For more information on pricing, take a look here: https://openai.com/api/pricing/
 
 - The original segment transitions are pruned so that segments have a minimum size of 10 utterances. In the end a plot is displayed comparing the original, pruned and inferred segment transitions points.
 
